@@ -1,0 +1,23 @@
+User-agent: Googlebot
+User-agent: Googlebot-News
+User-agent: Googlebot-Video
+User Agent: Slurp
+User Agent: YandexBot
+User Agent: Bingbot
+User Agent: Applebot
+User Agent: DuckDuckBot
+User Agent: Baiduspider
+User Agent: facebot
+User Agent: Swiftbot
+Disallow: /bootstrap/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /js/
+Disallow: /*.js
+Disallow: /*.css
+Disallow: /*.php
+Disallow: /*.mp3
+Disallow: /*.mp4
+Disallow: /*.ogg
+
+Sitemap: https://indadj.com/sitemap.xml
